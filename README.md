@@ -1,7 +1,7 @@
 # splitscreen
 
 ### demo live
-https://machetio7.github.io/card_captan_america/
+https://machetio7.github.io/splitscreen/
 ### Built with
 
 - Semantic HTML5 markup
